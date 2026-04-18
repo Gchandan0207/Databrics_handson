@@ -1,0 +1,5 @@
+material for reference
+https://hilarious-bath-01d.notion.site/Databricks-Data-Engineering-Certification-Study-Guide-30841e81b4cb80f7ab15ce7f78ca84dc
+
+https://github.com/Amrit-Hub/Databricks-Certified-Data-Engineer-Professional-Questions?tab=readme-ov-file
+
